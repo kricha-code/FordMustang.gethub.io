@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(132, 185, 255) ;
+}
+.navbar{
+    background-color: rgba(187, 183, 183, 0.548);
+}
+footer{
+    background-color: rgba(187, 183, 183, 0.548) ;
+    align-content: flex-end;
+}
+.all-models{
+    justify-content: center;
+}
